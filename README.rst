@@ -1,3 +1,11 @@
+
+THIS FORK HAS ONLY ONE PURPOSE having a version 2.10.1 with fix #867
+
+cf:
+https://github.com/pallets/jinja/pull/867
+https://github.com/pallets/jinja/issues/927
+https://github.com/pallets/jinja/issues/973
+
 Jinja2
 ~~~~~~
 
